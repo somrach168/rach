@@ -1,0 +1,165 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.heading {
+  height: 1300px;
+  width: 700px;
+  background-color: rgb(234, 207, 133);
+  box-shadow: 0px 2px 20px rgba(0, 0, 0, 1);
+}
+.box1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 10px;
+  background-image: url(https://i.pinimg.com/474x/0b/a1/54/0ba154492cbeb9986892e40d95378d81.jpg);
+  background-size: cover;
+  border: 15px groove deepskyblue;
+}
+.box3 {
+  background-color: rgb(0, 46, 86);
+  height: 190px;
+  width: 400px;
+  margin: 0px 240px 50px;
+  border: 10px groove rgb(156, 192, 204);
+  border-radius: 20px;
+  box-sizing: border-box;
+}
+.font {
+  padding: 10px;
+  font-size: 50px;
+  font-family: fantasy;
+  margin: -50px 0px 20px 20px;
+  color: aliceblue;
+}
+.font2 {
+  height: 10px;
+  width: 250px;
+  background-color: aliceblue;
+  border-radius: 0px 10px 10px 0px;
+  margin: -50px 0px 20px 0px;
+}
+
+/* .perstion {
+  height: 50px;
+  width: 600px;
+  background-color: aliceblue;
+  margin: 50px 0px 0px 40px ;
+  border-radius: 0px 10px 10px 0px;
+
+} */
+h2 {
+  margin: -42px;
+
+  padding: 10px;
+  font-size: 50px;
+  font-family: fantasy;
+
+  text-align: left;
+  display: flexbox;
+}
+.font4 {
+  background-color: rgb(0, 90, 169);
+  font-size: 20px;
+  color: aliceblue;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 0px 30px 30px 0px;
+}
+.PI {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 10px;
+  margin: 0px 0px 0px 0px;
+  /* border: 5px solid rgb(222, 16, 16); */
+}
+.font5 {
+  background-color: rgb(0, 90, 169);
+  font-size: 20px;
+  color: aliceblue;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 0px 30px 30px 0px;
+}
+.SK {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 20px;
+}
+.font6 {
+  height: 145px;
+  width: 5px;
+  background-color: aliceblue;
+
+  margin: -116px 50px -10px 320px;
+}
+/* .font7 {
+  padding: 10px;
+  color: aliceblue;
+  font-size: 90px;
+  font-family: fantasy;
+  margin: -225px 20px -10px 350px;
+} */
+.font8 {
+  background-color: rgb(0, 90, 169);
+  font-size: 20px;
+  color: aliceblue;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 0px 30px 30px 0px;
+}
+.ED {
+  font-size: 25px;
+  font-family: fantasy;
+  margin-left: 20px;
+}
+.font9 {
+  background-color: rgb(0, 90, 169);
+  font-size: 20px;
+  color: aliceblue;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 0px 30px 30px 0px;
+}
+.WORK {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: 20px;
+}
+.font10 {
+  background-color: rgb(0, 90, 169);
+  font-size: 20px;
+  color: aliceblue;
+  font-family: fantasy;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  border-radius: 0px 30px 30px 0px;
+}
+.DR {
+  font-size: 60px;
+  font-family: "Moul", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 70px 0px 0px 40px;
+}
+.ruler{
+  height: 660px;
+  width: 10px;
+
+  background-color: aliceblue;
+
+  margin: -1010px 50px -10px 640px;
+}
